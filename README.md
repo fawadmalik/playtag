@@ -21,3 +21,9 @@ Lets assume that you have also pushed this mistyped tag to the remote repo
 Total 0 (delta 0), reused 0 (delta 0)
 To https://github.com/fawadmalik/playtag.git
  * [new tag]         ver1.0.0 -> ver1.0.0
+
+// push some more commits
+// . . . la la la
+
+Then you realized your mistake at some point and need to correct the tag. You can do it in the middle of the repo history and not necessarily right away.
+So lets assume that after pushing a few commits you found the tag po and needed to correct the tag name.
